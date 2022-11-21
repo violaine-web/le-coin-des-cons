@@ -85,8 +85,8 @@ permalink: /posts/
       </a>
 
       <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Posted on {{ post.date | date: date_format }}
+        {% assign date_format = site.date_format | default: "%-d %b %Y" %}
+        Posté le {{ post.date | date: date_format }} par {{ post.author }}
       </p>
 
       {% if thumbnail != "" %}
