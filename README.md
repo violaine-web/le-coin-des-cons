@@ -200,7 +200,7 @@ in `_config.yml`.
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b %Y"
 ```
 
 
