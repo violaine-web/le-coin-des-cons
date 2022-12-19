@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-**Mettre un petit texte de présentation**
+**Site en construction :)**
+**Ici, bientôt un petit texte de présentation**
 
 
 <!--
