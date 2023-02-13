@@ -3,7 +3,7 @@ layout: post
 title: "Merci à Elles"
 categories: misc
 author: Emma
-published: true
+published: false
 ---
 La suite de cette histoire d’un type lambda qui agresse verbalement une meuf à plusieurs reprises c’est un truc de meufs. 
 Je m’explique. Suite à ses remarques, j’ai ressenti de la colère qui m’a permis de me mettre en mouvement, de vouloir parler. 
