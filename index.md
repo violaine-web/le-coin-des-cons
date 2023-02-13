@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-
 # Bienvenue
 
 Ici, on parle de Con(s) dans le sens mélioratif : le con, c'est l'organe féminin, qui est devenu, à travers le temps, une insulte car soit disant associé à l'impuissance et la passivité. 
