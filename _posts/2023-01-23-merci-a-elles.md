@@ -3,7 +3,7 @@ layout: post
 title: "Merci à Elles"
 categories: misc
 author: Emma
-published: false
+published: true
 ---
 Faut que je raconte la suite de l’histoire. Pour rappel, c’est l’histoire d’un mec qui agresse verbalement une meuf à plusieurs reprises pendant un tournoi de mölkky. Suite à ses remarques, j’ai ressenti de la colère qui m’a permis de me mettre en mouvement, de vouloir parler. Au moins c’est déjà ça, j’aurais pu être terrassée par la honte ou tomber dans une spirale culpabilisante du genre «  tout est de ma faute » etc. 
 
@@ -27,5 +27,4 @@ Bref, une histoire de sexisme ordinaire qui se termine quand même avec des excu
 
 En tous cas, ça me donne envie de dire merci à elles, c’est-à-dire merci aux meufs qui osent parler, qui osent faire des démarches, qui écoutent, qui soutiennent, qui dénoncent, qui insistent, qui parlent pour des meufs qui n’arrivent pas à parler. Si les meufs ne parlent pas, c’est pas les mecs d’eux-mêmes qui vont se dire un petit matin : « Tiens je suis pas un peu con dans le fond ? ». On peut admirer des types qui font leur rédemption, qui s’excusent ou qui essayent d’expliquer leurs comportements, ces mecs le font toujours parce qu’**avant** il y a une ou des meufs qui ont osé parlé. Cette histoire se termine « bien » mais il y en a combien des histoires qui restent dans la chair et l’esprit des meufs qui alors développent des comportements d’évitement ou d’angoisse ?
 
-En tous cas, au moins j’ai parlé et j’ai trouvé un écho chez des meufs qui m’ont écouté et soutenu. Et aux dernières nouvelles, le type est en exclusion temporaire de son propre club pour comportement agressif envers des joueurs. J’aime à croire que, en plus des ses comportements border-line envers tout le monde, mon propre témoignage aura fait pencher la balance pour que ce type arrête enfin ses conneries.
-
+En tous cas, au moins j’ai parlé et j’ai trouvé un écho chez des meufs qui m’ont écoutée et soutenue. Et aux dernières nouvelles, le type est en exclusion temporaire de son propre club pour comportement agressif envers des joueurs. J’aime à croire que, en plus des ses comportements border-line envers tout le monde, mon propre témoignage aura fait pencher la balance pour que ce type arrête enfin ses conneries.
