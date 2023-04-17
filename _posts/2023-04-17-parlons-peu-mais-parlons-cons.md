@@ -7,7 +7,7 @@ published: true
 ---
 Écrire...
 Ça commence à faire un petit moment que je ne me suis pas prêtée à l'exercice d'écrire.  
-
+<br>
 Écrire spontannement, sans trop réfléchir. Laisser mon cerveau me dicter les mots.  
 
 Un titre d'abord qui pointe le bout de son nez, sans trop savoir quel sujet ni quels mots je vais pouvoir lui associer.  
