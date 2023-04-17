@@ -1,0 +1,23 @@
+---
+layout: post
+title: "La mode d'être un vieux con"
+categories: misc
+author: Emma
+published: true
+---
+
+Je ne sais pas pour vous mais pour ma part, cela fait quelques temps que j’entends des vieux mâles blancs dominants s’auto-intituler avec délectation « vieux con ». Dans les discussions où leurs privilèges sont remis en question ou quand les vieilles pratiques ressurgissent, le fait d’être vieux et con est utilisé comme un argument imparable voire une excuse.
+
+Par exemple, mon ancien patron, maraîcher biologique, 63 ans, lors d’un atelier agile sur nos pratiques a utilisé à plusieurs reprises ce terme en s’exprimant ainsi : « ça a toujours été comme ça, j’ai été éduqué comme ça, et je suis un vieux con c’est comme ça ». Comme si ça suffisait à expliquer des comportements sexistes et réactionnaires.
+
+Autre exemple : mon propriétaire, lui aussi vieux fermier céréalier, inquiet du réchauffement climatique, se convertissant partiellement à l’agriculture biologique m’explique ses pratiques d’utilisation massive de produits phyto-sanitaires et comment il a appris le métier. Puis au détour de ses justifications, il dit « oh m’écoutez pas de toute façon je suis un vieux con ». Et moi de dire immédiatement : « Mais vous pouvez pas arrêter d’être des vieux cons ? ». Non mais sérieusement, être vieux c’est ainsi on prend de l’âge, on meurt, ok. Mais associer vieux et con et le revendiquer de manière péremptoire, c’est dire en sous-texte : « je suis con mais je suis vieux alors n’écoutez pas ce que je dis mais écoutez moi quand même parce que j’ai toujours eu droit à la parole, j’ai toujours pu dire des saloperies et je vais continuer à les dire mais je donne une vague excuse pour complaire aux jeunes et aux féministes parce que j’ai tout de même un peu honte de ce que je suis en train de dire ». 
+
+Est-ce qu’on a déjà entendu des femmes dire « je suis vieille et conne alors j’ai le droit de dire des trucs cons merci et bonne soirée » ?
+
+Le truc qui me gêne avec cette justification d’être un vieux con, c’est qu’on ne sait pas trop quoi rétorquer, à part dire, comme je l’ai fait, d’arrêter d’être con ou  : « tu pourrais peut-être changer non ? ». Et là on tombe inévitablement dans le fait de vouloir changer les autres, ce qui n’est pas une attitude très intéressante non plus, c’est très présomptueux de vouloir changer quelqu’un. Parce que les vieux cons, ils ne veulent pas changer et ils veulent que rien ne change. Le changement c’est maintenant comme dirait l’autre, c’est le changement toujours pour les vieux cons surtout, pas pour les jeunes femmes et les précaires ça non !
+
+Pourtant, dans le féminisme, est-ce qu’on parle de faire changer les pratiques, de faire évoluer les mœurs ou de changer radicalement la société ? Et c’est là le point d’achoppement : que dire aux vieux cons si c’est pour qu’ils n’entendent rien à ce que vous dites, qu’ils se mettent à gueuler plus fort que vous et/ou qu’ils vous coupent la parole ? C’est que les vieux cons ne se laissent pas manœuvrer, ne sont pas ouverts aux discussions, n’aiment pas le monde d’aujourd’hui, sont aigris, ne comprennent pas les jeunes qui ne veulent pas travailler, ne veulent pas mettre la table ni débarrasser, encore moins préparer un repas et surtout pas passer l’aspirateur. L’habitude est bien ancrée : je suis en bout de table, le cul bien assis sur ma chaise et je dégoise pendant que les autres font le boulot.
+
+Les vieux cons c’est comme des murs de pierres épaisses, on peut les attaquer au marteau-piqueur, il n’y a rien qui passe. Par contre, y’a plein de merde qui en sort et c’est pour nos oreilles. Ainsi, à part leur dire : « merci de m’avoir prévenu que tu es un vieux con, sur ce je m’en vais et surtout pas au revoir », je ne vois pas trop ce que j’ai à leur dire, et surtout je n’ai plus envie de les écouter ni de perdre mon temps à essayer de faire bouger ne serait-ce qu’un petit neurone chez eux. 
+
+Et c’est pas comme si je n’avais pas fait d’efforts pour les comprendre, pour me rendre compte d’où viennent ces personnes, l’éducation qu’ils ont pu recevoir. Je ne sais pas si ça a été si facile que ça pour les vieux cons, en tous cas nous aspirons à entendre d’autres personnes que les vieux cons merci bien ! Les donneurs de leçons, les privilégiés, les richous, les fachos, les vieux de droite, les harceleurs, bref tout ceux qui rentrent dans la case vieux con, je ne tend même plus l’oreille pour ma part. Je préfère me consacrer, dans l’ordre aux jeunes intelligentes, aux vieilles intelligentes, aux vielles connes et enfin, à petite dose, en se disant qu’il y a peut-être un peu d’espoir, aux jeunes cons. Mais faut pas trop pousser non plus.
