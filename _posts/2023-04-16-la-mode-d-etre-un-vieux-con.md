@@ -6,6 +6,7 @@ author: Emma
 published: true
 ---
 
+
 Je ne sais pas pour vous mais pour ma part, cela fait quelques temps que j’entends des vieux mâles blancs dominants s’auto-intituler avec délectation « vieux con ». Dans les discussions où leurs privilèges sont remis en question ou quand les vieilles pratiques ressurgissent, le fait d’être vieux et con est utilisé comme un argument imparable voire une excuse.
 
 Par exemple, mon ancien patron, maraîcher biologique, 63 ans, lors d’un atelier agile sur nos pratiques a utilisé à plusieurs reprises ce terme en s’exprimant ainsi : « ça a toujours été comme ça, j’ai été éduqué comme ça, et je suis un vieux con c’est comme ça ». Comme si ça suffisait à expliquer des comportements sexistes et réactionnaires.
