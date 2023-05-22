@@ -3,7 +3,7 @@ layout: post
 title: "Parlons peu, mais parlons cons"
 categories: misc
 author: Violaine
-published: false
+published: true
 ---
 Écrire...
 Ça commence à faire un petit moment que je ne me suis pas prêtée à l'exercice d'écrire.  
